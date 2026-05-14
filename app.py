@@ -1,3 +1,4 @@
+# updated for v2
 import os
 import subprocess
 import sqlite3
